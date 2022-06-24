@@ -1,5 +1,4 @@
-DDLC plus oyununu çeviriyorum çevirdiğim zaman yayınlıcam.
-
+DDLC plus oyununu çeviriyorum çevirdiğim zaman yayınlamıcam.
 
 DDLC plus .cy dosyalarını kullanır.
 Bu dosyalar normal unity assets bundle dosyasıdır fakat şifrelenmiştir.
