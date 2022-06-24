@@ -27,3 +27,6 @@ Dosyayı gözden geçirmeye başladım ve çözümü buldum.
 24.06.2022
 Türkçe karakter sorunu giderildi.
 Dosyayı tamamladım geriye kalan dosyalar çeviri dosyası.
+
+
+Eğer merak ettiğiniz birşey varsa discord sunucuma gelebilirsiniz : https://discord.gg/EprHss59
