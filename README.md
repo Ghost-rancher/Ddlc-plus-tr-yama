@@ -13,10 +13,7 @@ Ondan DDLC.dll dosyasını modifike ettim.
 Benim dosyamdan alıyor bilgiyi ve ekrana yazıyor.
 Ben bir çevirmen değilim ondan ilk DDLC bölümünü çevirip yayınlıcam.
 
-
-
-
-
+Yukarıdan Ekran Görüntülerine bakmayı unutmayın!!!
 
 
 Geliştirici Notları
